@@ -1,0 +1,17 @@
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\bin\Debug\net6.0\Application.dll
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\bin\Debug\net6.0\Domain.dll
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\bin\Debug\net6.0\Application.pdb
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\bin\Debug\net6.0\Domain.pdb
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\MyPC\Projects\PersonalProjects\NETCore\ArmonyHairService\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
