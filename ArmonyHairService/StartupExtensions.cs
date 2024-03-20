@@ -12,7 +12,7 @@ namespace ArmonyHairService
 
             builder.Services.AddCors(options =>
             {
-                options.AddPolicy("Open", builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
+                options.AddPolicy("ArmonyHair", builder => builder.WithOrigins("https://armonyhair.ro","http://armonyhair.ro").AllowAnyHeader().AllowAnyMethod());
             });
 
             return builder.Build();
@@ -22,7 +22,7 @@ namespace ArmonyHairService
         {
             app.UseHttpsRedirection();
             app.UseAuthentication();
-            app.UseCors("Open");
+            app.UseCors("ArmonyHair");
             app.UseAuthorization();
             app.MapControllers();
 
