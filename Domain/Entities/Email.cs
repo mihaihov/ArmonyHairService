@@ -9,8 +9,7 @@ namespace Domain.Entities
         public string SenderEmail { get; set; } = string.Empty;
 
         [Required]
-        [EmailAddress]
-        public string RecipientEmail { get; set; } = string.Empty;
+        public string Name { get; set; } = string.Empty;
 
         [Required]
         public string Subject { get; set; } = string.Empty;

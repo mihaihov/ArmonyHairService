@@ -14,7 +14,7 @@ namespace Infrastructure.Features.Emails.Validators
         public SendEmailCommandValidator()
         {
             RuleFor(p => p.Email!.SenderEmail).NotEmpty().NotNull();
-            RuleFor(p => p.Email!.RecipientEmail).NotEmpty().NotNull();
+            RuleFor(p => p.Email!.Name).NotEmpty().NotNull();
         }
     }
 }

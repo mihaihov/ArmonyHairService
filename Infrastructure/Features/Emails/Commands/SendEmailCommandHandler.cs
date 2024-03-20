@@ -41,7 +41,7 @@ namespace Infrastructure.Features.Emails.Commands
                         client.EnableSsl = true;
                         client.Credentials = new NetworkCredential(_configuration["SmtpUser"], _configuration["SmtpPassword"]);
 
-                        var message = new MailMessage(command.Email!.SenderEmail, command.Email.RecipientEmail, command.Email.Subject, command.Email.Body);
+                        var message = new MailMessage(command.Email!.SenderEmail,_configuration["SmtpUser"], command.Email.Subject, command.Email.Body + "\n\n Trimis de catre: " + command.Email!.SenderEmail);
 
                         await client.SendMailAsync(message);
 
