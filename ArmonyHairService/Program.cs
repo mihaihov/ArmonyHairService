@@ -1,3 +1,6 @@
+using Microsoft.Azure.KeyVault;
+using Microsoft.Azure.Services.AppAuthentication;
+
 namespace ArmonyHairService
 {
     public class Program
